@@ -1,31 +1,65 @@
 class Solution {
+    static final int MOD = 1_000_000_007;
+
     public int uniquePaths(int[][] grid) {
-        int n = grid.length;
-        int m = grid[0].length;
-        int MOD = 1_000_000_007;
-        int[][][] dp = new int[n][m][2];
-        dp[0][0][0] = 1;
-        for(int i = 0; i < n; i++){
-            for(int j = 0; j < m; j++){
-                if(i == 0 && j == 0){
+        int m = grid.length;
+        int n = grid[0].length;
+
+        long[][] dp = new long[m][n];
+        dp[0][0] = 1;
+
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (dp[i][j] == 0) {
                     continue;
                 }
-                if(i > 0){
-                    if(grid[i-1][j] == 0){
-                        dp[i][j][0] = (dp[i-1][j][0] + dp[i-1][j][1]) % MOD;
-                    }else{
-                        dp[i][j][0] = dp[i-1][j][1];
+
+                long ways = dp[i][j];
+
+                // Try moving right
+                if (j + 1 < n) {
+                    int r = i;
+                    int c = j + 1;
+                    int dir = 0; // 0 = right, 1 = down
+
+                    while (r < m && c < n && grid[r][c] == 1) {
+                        if (dir == 0) {
+                            r++;
+                            dir = 1;
+                        } else {
+                            c++;
+                            dir = 0;
+                        }
+                    }
+
+                    if (r < m && c < n) {
+                        dp[r][c] = (dp[r][c] + ways) % MOD;
                     }
                 }
-                if(j > 0){
-                    if(grid[i][j-1] == 0){
-                        dp[i][j][1] = (dp[i][j-1][0] + dp[i][j-1][1]) % MOD;
-                    }else{
-                        dp[i][j][1] = dp[i][j-1][0];
+
+                // Try moving down
+                if (i + 1 < m) {
+                    int r = i + 1;
+                    int c = j;
+                    int dir = 1; // 0 = right, 1 = down
+
+                    while (r < m && c < n && grid[r][c] == 1) {
+                        if (dir == 0) {
+                            r++;
+                            dir = 1;
+                        } else {
+                            c++;
+                            dir = 0;
+                        }
+                    }
+
+                    if (r < m && c < n) {
+                        dp[r][c] = (dp[r][c] + ways) % MOD;
                     }
                 }
             }
         }
-        return (dp[n-1][m-1][0] + dp[n-1][m-1][1]) % MOD;
+
+        return (int) dp[m - 1][n - 1];
     }
 }

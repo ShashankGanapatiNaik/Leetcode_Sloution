@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/0048-rotate-image) |
+| [3665-twisted-mirror-path-count](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/3665-twisted-mirror-path-count) |
 ## Math
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/0048-rotate-image) |
+| [3665-twisted-mirror-path-count](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/3665-twisted-mirror-path-count) |
 ## Stack
 |  |
 | ------- |
@@ -38,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3665-twisted-mirror-path-count](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/3665-twisted-mirror-path-count) |
 <!---LeetCode Topics End-->

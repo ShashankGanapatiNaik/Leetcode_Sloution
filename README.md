@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/0301-remove-invalid-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/2085-count-common-words-with-one-occurrence) |
 ## Backtracking
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/0048-rotate-image) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/2085-count-common-words-with-one-occurrence) |
 | [3665-twisted-mirror-path-count](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/3665-twisted-mirror-path-count) |
 ## Math
 |  |
@@ -44,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3665-twisted-mirror-path-count](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/3665-twisted-mirror-path-count) |
+## Hash Table
+|  |
+| ------- |
+| [2085-count-common-words-with-one-occurrence](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/2085-count-common-words-with-one-occurrence) |
+## Counting
+|  |
+| ------- |
+| [2085-count-common-words-with-one-occurrence](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/2085-count-common-words-with-one-occurrence) |
 <!---LeetCode Topics End-->

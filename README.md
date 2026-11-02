@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3665-twisted-mirror-path-count](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/3665-twisted-mirror-path-count) |
 ## Math
 |  |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->

@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3665-twisted-mirror-path-count](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/3665-twisted-mirror-path-count) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Simulation
 |  |
 | ------- |

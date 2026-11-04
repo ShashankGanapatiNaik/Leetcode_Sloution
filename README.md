@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/0301-remove-invalid-parentheses) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Array
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3665-twisted-mirror-path-count](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/0048-rotate-image) |
 | [0419-battleships-in-a-board](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/0419-battleships-in-a-board) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3665-twisted-mirror-path-count](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/3665-twisted-mirror-path-count) |
 ## Stack
 |  |
@@ -117,4 +120,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0419-battleships-in-a-board](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/0419-battleships-in-a-board) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 <!---LeetCode Topics End-->

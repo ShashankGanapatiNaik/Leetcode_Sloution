@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/0048-rotate-image) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0419-battleships-in-a-board](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/0419-battleships-in-a-board) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/0048-rotate-image) |
+| [0419-battleships-in-a-board](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/0419-battleships-in-a-board) |
 | [3665-twisted-mirror-path-count](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/3665-twisted-mirror-path-count) |
 ## Stack
 |  |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/0096-unique-binary-search-trees) |
+## Depth-First Search
+|  |
+| ------- |
+| [0419-battleships-in-a-board](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/0419-battleships-in-a-board) |
 <!---LeetCode Topics End-->

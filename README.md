@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -82,16 +83,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0148-sort-list](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/0148-sort-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/0148-sort-list) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Simulation

@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [2747-count-zero-request-servers](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3665-twisted-mirror-path-count](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2747-count-zero-request-servers](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/2747-count-zero-request-servers) |
 ## Counting
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2747-count-zero-request-servers](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/2747-count-zero-request-servers) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Simulation
 |  |
@@ -140,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/0148-sort-list) |
+## Sliding Window
+|  |
+| ------- |
+| [2747-count-zero-request-servers](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/2747-count-zero-request-servers) |
 <!---LeetCode Topics End-->

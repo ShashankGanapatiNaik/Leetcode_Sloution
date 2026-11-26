@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [3360-stone-removal-game](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/3360-stone-removal-game) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Matrix
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [3360-stone-removal-game](https://github.com/ShashankGanapatiNaik/Leetcode_Sloution/tree/master/3360-stone-removal-game) |
 ## Linked List
 |  |
 | ------- |
